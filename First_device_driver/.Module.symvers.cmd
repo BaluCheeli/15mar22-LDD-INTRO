@@ -1,0 +1,1 @@
+cmd_/home/balu/ts/ldd/15mar/First_device_driver/Module.symvers := sed 's/\.ko$$/\.o/' /home/balu/ts/ldd/15mar/First_device_driver/modules.order | scripts/mod/modpost -m -a  -o /home/balu/ts/ldd/15mar/First_device_driver/Module.symvers -e -i Module.symvers   -T -

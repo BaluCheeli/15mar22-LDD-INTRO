@@ -1,0 +1,1 @@
+cmd_/home/balu/ts/ldd/15mar/First_device_driver/First_device_driver.mod := { echo  /home/balu/ts/ldd/15mar/First_device_driver/First_device_driver.o;  echo; } > /home/balu/ts/ldd/15mar/First_device_driver/First_device_driver.mod
