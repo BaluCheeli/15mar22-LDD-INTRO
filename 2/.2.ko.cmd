@@ -1,0 +1,1 @@
+cmd_/home/balu/ts/ldd/15mar/2/2.ko := ld -r  -m elf_x86_64  --build-id=sha1  -T scripts/module.lds -o /home/balu/ts/ldd/15mar/2/2.ko /home/balu/ts/ldd/15mar/2/2.o /home/balu/ts/ldd/15mar/2/2.mod.o;  true
